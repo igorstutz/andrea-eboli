@@ -8,9 +8,10 @@ Repositório que reúne os projetos digitais desenvolvidos para a marca **Andrei
 
 Aplicativo de coaching e produtividade pessoal com IA conversacional (Deia), construído sobre a Claude API.
 
-- **Apresentação da proposta:** [igorstutz.github.io/andrea-eboli/lets-be](https://igorstutz.github.io/andrea-eboli/lets-be/)
-- **Status:** proposta apresentada — aguardando aprovação para início da Fase 01 (MVP)
-- **Stack prevista:** React + arquitetura cross-platform, Claude API, PWA com migração futura para iOS/Android nativos
+- **Proposta do app nativo (out/2026):** [igorstutz.github.io/andrea-eboli/lets-be/app](https://igorstutz.github.io/andrea-eboli/lets-be/app/)
+- **Proposta anterior (mai/2026, web):** [igorstutz.github.io/andrea-eboli/lets-be](https://igorstutz.github.io/andrea-eboli/lets-be/)
+- **Status:** versão web desenvolvida; proposta do app nativo (iOS e Android) apresentada
+- **Stack:** Expo / React Native, Claude API, Supabase
 
 ---
 
